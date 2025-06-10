@@ -15,7 +15,8 @@ export const Preview = () => {
 
 					<div className="flex flex-col gap-2 max-w-[30rem] flex-1">
 						<div className="text-3xl font-bold">
-							Accept Online Payments in Saudi Arabia – Fast, Secure and Easy
+							Accept Online Payments in Saudi Arabia with Fast, Secure and Easy
+							steps
 						</div>
 						<p className="text-gray-400">
 							Get paid seamlessly through Mada, Visa, Mastercard, and Apple Pay
@@ -37,7 +38,7 @@ export const Preview = () => {
 						<p className="text-gray-400">
 							Easily manage all your payments from a single dashboard Get
 							detailed reports and analytics on every aspect of your financial
-							transactions, helping you make informed business decisions.
+							transactions, helping you make informed business decisions
 						</p>
 					</div>
 				</div>
