@@ -20,7 +20,7 @@ export const Preview = () => {
 						<p className="text-gray-400">
 							Get paid seamlessly through Mada, Visa, Mastercard, and Apple Pay
 							with our trusted payment gateway. Boost sales with smooth,
-							Sharia-compliant transactions tailored for businesses in KSA."
+							Sharia-compliant transactions tailored for businesses in KSA
 						</p>
 					</div>
 				</div>
